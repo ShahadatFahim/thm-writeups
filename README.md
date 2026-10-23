@@ -11,7 +11,7 @@ Maintained by **Shahadat Fahim** — aspiring penetration tester & bug bounty hu
 | Room | Topics | Link |
 |------|--------|------|
 | **WorldWAP** | Stored XSS → cookie theft → same-origin exfiltration → admin takeover | [Read »](./WorldWAP-Writeup.md) |
-
+| **El Bandito** | nginx `..;` ACL bypass · Spring Boot actuator leak · HTTP/2 H2.CL request smuggling | [Read »](./El-Bandito-Writeup.md) |
 *(more coming soon)*
 
 ---
